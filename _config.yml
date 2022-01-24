@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: ESSB Data Coffee Breaks
 description: Calendar and resources for the ESSB Data Coffee Breasks at Erasmus University Rotterdam
-
+logo: /assets/img/ESSB_datacoffeebreaks_logo.jpg
 
 author:
   name:           'Eduard Klapwijk, ESSB Research Data Steward'
