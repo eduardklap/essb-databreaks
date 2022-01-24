@@ -4,12 +4,28 @@ The ESSB Data Coffe Breaks are a series of short online presentations, organised
 
 ## Coffee Break Schedule 2022
 
-| Date and time | Topic |
-| --- | --- |
-| Thursday February 10, 10.00h | How to write a Data Management Plan |
-| Monday February 28, 15.30h | How to write a Data Management Plan |
-| March | Best practices for documenting and organizing research projectsn |
-| March | Best practices for documenting and organizing research projects |
+| Date and time | Topic | Materials |
+| --- | --- | --- |
+| Thursday February 10, 10.00h | How to write a Data Management Plan | |
+| Monday February 28, 15.30h | How to write a Data Management Plan | |
+| March (date and time tba) | Best practices for documenting and organizing research projects | |
+| March (date and time tba) | Best practices for documenting and organizing research projects | |
+| April (date and time tba) | Making understandable codebooks using SPSS and R | |
+| April (date and time tba) | Making understandable codebooks using SPSS and R | |
+| May (date and time tba) | Introduction to the FAIR principles | |
+| May (date and time tba) | Introduction to the FAIR principles  | |
+| June (date and time tba) | Sharing and archiving your data at EUR  | |
+| June (date and time tba) | Sharing and archiving your data at EUR  | |
+| July  | Summer break | |
+| August  | Summer break | |
+| September (date and time tba) | tba | |
+| September (date and time tba) | tba | |
+| October (date and time tba) | tba | |
+| October (date and time tba) | tba | |
+| November (date and time tba) | tba | |
+| November (date and time tba) | tba | |
+| December (date and time tba) | tba | |
+| December (date and time tba) | tba | |
 
 ### How do the Breaks work?
 The ESSB Data Coffee Breaks are monthly online presentations around research data management. The meetings are _**short, focused, and informal**_. 
